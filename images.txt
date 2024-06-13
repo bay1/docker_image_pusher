@@ -1,5 +1,6 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+docker.io/library/golang:1.20
+docker.io/library/golang:1.22-alpine
+docker.io/library/alpine:latest
+gcr.io/distroless/static:nonroot
+docker.io/library/node:18-alpine
+docker.io/library/nginx:1.23.3-alpine
