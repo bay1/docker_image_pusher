@@ -6,3 +6,5 @@ docker.io/library/node:18-alpine
 docker.io/library/nginx:1.23.3-alpine
 rancher/local-path-provisioner:master-head
 python:3.6
+byrnedo/alpine-curl:0.1.7
+nginx:1.15.1-alpine
