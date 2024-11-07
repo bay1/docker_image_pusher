@@ -1,1 +1,1 @@
-docker.io/curlimages/curl:7.85.0
+quay.io/prometheus-operator/prometheus-config-reloader:v0.68.0
