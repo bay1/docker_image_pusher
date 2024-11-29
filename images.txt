@@ -1,1 +1,1 @@
-polinux/stress
+victoriametrics/vmauth:v1.102.1
