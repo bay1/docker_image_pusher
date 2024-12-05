@@ -1,1 +1,5 @@
-victoriametrics/vmauth:v1.101.0
+victoriametrics/vmagent-config-updater:v1.1.0
+victoriametrics/vmagent:v1.103.0
+prom/node-exporter:v1.4.0
+nginx:1.23.1
+victoriametrics/victoria-metrics:v1.103.0
