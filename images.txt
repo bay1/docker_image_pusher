@@ -1,2 +1,2 @@
 victoriametrics/vmalert:v1.103.0
-victoriametrics/alertmanager:v0.24.0
+prom/alertmanager:v0.24.0
