@@ -1,2 +1,2 @@
-victoriametrics/vmalert:v1.103.0
-prom/alertmanager:v0.24.0
+ghcr.io/jmcgrath207/k8s-ephemeral-storage-grow-test:latest
+ghcr.io/jmcgrath207/k8s-ephemeral-storage-shrink-test:latest
