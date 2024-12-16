@@ -1,3 +1,1 @@
-ghcr.io/jmcgrath207/k8s-ephemeral-storage-grow-test:latest
-ghcr.io/jmcgrath207/k8s-ephemeral-storage-shrink-test:latest
-ghcr.io/jmcgrath207/k8s-ephemeral-storage-metrics:1.15.0
+monitor/prometheus-client-practice
