@@ -1,1 +1,1 @@
-monitor/prometheus-client-practice
+monitor/prometheus-client-practice:0.0.1
