@@ -1,1 +1,1 @@
-golangci/golangci-lint:v1.63.4
+golang:1.22.10-alpine3.21
