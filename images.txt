@@ -1,1 +1,1 @@
-golang:1.18-alpine
+alpine:3.17.2
