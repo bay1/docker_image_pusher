@@ -1,1 +1,1 @@
-robustadev/krr:v1.17.0
+mongo:4.2.6
