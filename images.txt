@@ -1,1 +1,5 @@
-redis:7.0
+oamdev/kube-webhook-certgen:v2.4.1
+oamdev/vela-core:v1.8.2
+oamdev/cluster-gateway:v1.8.0
+oamdev/hello-world:v1
+oamdev/alpine-k8s:1.18.2
