@@ -1,1 +1,1 @@
-velero/velero:v1.15.2
+docker.io/bitnami/kubectl:1.24
