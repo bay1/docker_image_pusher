@@ -1,1 +1,1 @@
-docker.io/bitnami/kubectl:1.24
+velero/velero-plugin-for-aws:v1.2.0
