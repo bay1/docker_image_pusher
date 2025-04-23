@@ -1,1 +1,1 @@
-velero/velero-plugin-for-aws:v1.2.0
+docker.io/library/python:3.11-slim
