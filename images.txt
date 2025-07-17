@@ -1,2 +1,1 @@
-docker.io/library/python:3.10-slim
-
+golang:1.23-alpine
