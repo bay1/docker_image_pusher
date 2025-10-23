@@ -1,1 +1,1 @@
-openebs/perf-test:latest
+mysql:8.0
