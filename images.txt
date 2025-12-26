@@ -1,1 +1,1 @@
-hub.docker.com/golang:1.24-alpine
+golang:1.24-alpine
