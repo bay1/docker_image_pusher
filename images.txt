@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.3.3-local
+hub.docker.com/golang:1.24-alpine
