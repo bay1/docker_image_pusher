@@ -1,1 +1,1 @@
-cilium/cilium:1.16.4
+quay.io/cilium/cilium:v1.16.4
