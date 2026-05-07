@@ -1,1 +1,1 @@
-openkruise/kruise-rollout:v0.6.2
+cilium/cilium:1.16.4
