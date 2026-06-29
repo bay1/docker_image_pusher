@@ -1,5 +1,1 @@
-docker/dockerfile:1.7
-golang:1.22-alpine
-alpine:3.20
-node:20-alpine
-nginx:1.27-alpine
+nicolaka/netshoot
