@@ -1,1 +1,1 @@
-nicolaka/netshoot
+mongo:7
