@@ -1,1 +1,1 @@
-mongo:4.2.7
+ bitnami/kubectl:1.26
