@@ -1,1 +1,1 @@
-node:24.11-alpine
+bitnami/kubectl:1.26
