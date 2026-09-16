@@ -1,1 +1,1 @@
-golang:1.25.12-bookworm
+quay.io/skopeo/stable:v1.22.2
