@@ -1,1 +1,1 @@
-quay.io/skopeo/stable:v1.22.2
+ghcr.io/k8sgpt-ai/k8sgpt-operator:v0.2.29
